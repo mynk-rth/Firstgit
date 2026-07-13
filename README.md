@@ -6,19 +6,12 @@ This is my first Git repository! It contains a beginner-friendly countdown timer
 
 I used modules such as streamlit and other Python libraries. All these can help us to create a beautiful application.
 
-You can create your countdown timer using this as a base and then don't forget to mention me on your github.
-
-I am personally inspired by the Streamlit community. All credits goes to them.
-
 Don't forget to add all necessary files in the same directory. Make sure to organize your project files properly.
 
 Paste these syntax to install modules in your pc:
 ```
 pip install streamlit
 ```
-
-If you find any error then kindly contact me on your email.
-
 ## Prerequisites
 Make sure you have Python 3.7+ installed on your system.
 

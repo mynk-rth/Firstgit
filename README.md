@@ -1,6 +1,6 @@
-# Firstgit
+# Countdown timer 
 This is my first git repository.
 <br>
-Little Project - Timer
+Little Project - Countdown Timer
 <br>
 Author - Mynk.rth

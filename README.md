@@ -8,7 +8,7 @@ I used modules such as streamlit and other Python libraries. All these can help 
 
 Don't forget to add all necessary files in the same directory. Make sure to organize your project files properly.
 
-Paste these syntax to install modules in your pc:
+Paste this syntax to install modules in your pc:
 ```
 pip install streamlit
 ```
